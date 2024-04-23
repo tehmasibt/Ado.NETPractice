@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ado.netconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|solutionrelative:ado.netconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ado.netconnection\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|solutionrelative:ado.netconnection\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ado.netconnection\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FDD275-3F2D-4B67-99F5-CB8477A7C3CD}|Ado.NETConnection\\Ado.NETConnection.csproj|solutionrelative:ado.netconnection\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Ado.NETConnection\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Ado.NETConnection\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:00:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Program.cs",
+              "RelativeDocumentMoniker": "Ado.NETConnection\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Program.cs",
+              "RelativeToolTip": "Ado.NETConnection\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:43:40.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Ado.NETConnection\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\Ado.NETConnection\\Services\\StudentService.cs",
+              "RelativeToolTip": "Ado.NETConnection\\Services\\StudentService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA/wHQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:39:01.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
